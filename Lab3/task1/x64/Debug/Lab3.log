@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\vital\source\repos\Lab3\Lab3\Summator.h(22,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\vital\source\repos\Lab3\Lab3\CustomExpressionEvaluator.h(21,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\vital\source\repos\Lab3\x64\Debug\Lab3.exe

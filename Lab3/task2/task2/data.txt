@@ -1,0 +1,29 @@
+Abonement number: 407
+Sector: 1
+Place: 474
+Abonements rest: 99
+
+Abonement number: 2410
+Sector: 4
+Place: 411
+Abonements rest: 99
+
+Abonement number: 2413
+Sector: 6
+Place: 55
+Abonements rest: 98
+
+Abonement number: 417
+Abonements rest: 14
+
+Abonement number: 421
+Abonements rest: 13
+
+Abonement number: 424
+Abonements rest: 12
+
+Abonement number: 4426
+Sector: 4
+Place: 563
+Abonements rest: 99
+

@@ -1,0 +1,3 @@
+﻿  task2.cpp
+C:\Users\vital\source\repos\Lab3\Lab3\task2\task2\task2.cpp(19,46): warning C4244: аргумент: преобразование "size_t" в "double", возможна потеря данных
+  task2.vcxproj -> C:\Users\vital\source\repos\Lab3\Lab3\task2\x64\Debug\task2.exe
